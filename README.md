@@ -92,7 +92,8 @@ const Calculator = () => {
 };
 
 export default Calculator;
-
+```
+```
 ## app.js:
 
 import React from 'react';
@@ -107,7 +108,8 @@ function App() {
 }
 
 export default App;
-
+```
+```
 ## index.css:
 body {
   font-family: Arial, sans-serif;
@@ -147,10 +149,6 @@ footer {
   font-size: 0.9rem;
   color: gray;
 }
-
-
-
-
 ```
 
 ## OUTPUT
